@@ -1,0 +1,9 @@
+snowflake-snowpark-python
+snowflake-connector-python
+snowflake-sqlalchemy
+pyarrow[pandas]<8.1.0,>=8.0.0
+pandas
+streamlit
+openpyxl
+dynaconf
+dynaconf[ini]
